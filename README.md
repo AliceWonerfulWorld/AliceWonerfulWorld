@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AliceWonerfulWorld&theme=juicyfresh&no-bg=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliceWonerfulWorld&theme=chartreuse-dark)
+
+
