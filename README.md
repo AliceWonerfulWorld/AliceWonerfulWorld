@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AliceWonerfulWorld&layout=compact&theme=chartreuse-dark&locale=ja)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliceWonerfulWorld&show_icons=true&theme=chartreuse-dark&locale=ja)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AliceWonerfulWorld&theme=juicyfresh&no-bg=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliceWonerfulWorld&theme=chartreuse-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceWonerfulWorld)](https://github.com/anuraghazra/github-readme-stats)
 
 
