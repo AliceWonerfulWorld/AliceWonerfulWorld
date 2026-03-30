@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats
-
+<!-- Github Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceWonerfulWorld)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliceWonerfulWorld&show_icons=true&theme=radical&locale=ja" alt="GitHub Stats" />
